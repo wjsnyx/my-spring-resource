@@ -1,0 +1,3 @@
+spring-resource学习
+该模块主要是将资源文件转化为Resource
+默认Resource提供getInputStream来获取输入流
